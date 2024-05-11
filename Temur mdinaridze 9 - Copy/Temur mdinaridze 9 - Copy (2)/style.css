@@ -1,0 +1,154 @@
+nav {
+    display: list-item;
+    padding-top: 33px;
+    padding-left: 99px;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  li a {
+    margin-top: -30px;
+    margin-right: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #636060;
+    display: flex;
+    vertical-align: middle;
+  }
+  
+  .geolab {
+    width: 33px;
+    height: 42px;
+    vertical-align: middle;
+  }
+  
+  section {
+    margin-top: 18px;
+  }
+  .banner {
+    background-image: url(images/image.png);
+    background-repeat: no-repeat;
+    height: 606px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .banner h1 {
+    font-family: helvetica, sans-serif;
+    font-size: 79px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+  }
+  
+  .banner h2 {
+    font-family: helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 84px;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .content h3 {
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #636060;
+  }
+  
+  section .h3 {
+    font-family: helvetica, sans-serif;
+    width: 214px;
+    height: 32px;
+    margin-top: 9px;
+    color: #010101;
+    font-size: 28px;
+  }
+  
+  .h33 {
+    width: 235px;
+    height: 115px;
+    margin-top: 20px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .up {
+    translate: 0px -200px;
+    display: flex;
+    margin-left: 850px;
+  }
+  
+  .up img {
+    margin-right: 33px;
+    width: 286px;
+    height: 195px;
+  }
+  
+  p {
+    margin-top: 9px;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+  }
+  
+  h4 {
+    margin-top: 23px;
+    width: 300px;
+    height: 22px;
+    font-family: Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .down {
+    display: flex;
+    translate: -957.5px;
+    margin-top: 170px;
+  }
+  
+  .down img {
+    width: 286px;
+    height: 195px;
+    margin-right: 33px;
+  }
